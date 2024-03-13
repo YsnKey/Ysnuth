@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
     Hi, im YsnUth aka inject
 </h1>
 <div id="header" align="center">
