@@ -7,3 +7,4 @@
 <a align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=YsnKey&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YsnKey&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
